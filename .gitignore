@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Generated applications and release packages
+*.app/
+*.zip
+*.dmg
+
+# Build caches and temporary outputs
+build/
+module-cache/
+ScreenSwitch-build-*/
+SafetyTests
+
+# Local experiments and historical backups
+work/
